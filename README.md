@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vish1405
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning automation
-- 💞️ I’m looking to collaborate on automation projects
+- 👀 I’m interested in automation
 - 📫 How to reach me vishakha.jaiswal@bhspecialty.com
 
 <!---
